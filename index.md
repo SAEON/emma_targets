@@ -41,7 +41,7 @@ How long did that take?
 model_fit$time()$total
 ```
 
-    ## [1] 33.65373
+    ## [1] 351.7086
 
 ``` r
 params=c("tau","alpha_mu","gamma_b2","gamma_b1","lambda_b1","lambda_b2")
@@ -70,10 +70,6 @@ posterior_summary %>%
   labs(x="time since fire (years)",y="NDVI") +
   theme_bw()
 ```
-
-    ## Warning: Removed 245 row(s) containing missing values (geom_path).
-
-    ## Warning: Removed 245 row(s) containing missing values (geom_path).
 
 ![](index_files/figure-gfm/plot-1.png)<!-- -->
 
