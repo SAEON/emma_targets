@@ -1,0 +1,16 @@
+.targets-files
+_targets/meta/.gitignore
+_targets/meta/meta
+_targets/meta/process
+_targets/meta/progress
+_targets/objects/data
+_targets/objects/group_data
+_targets/objects/model
+_targets/objects/model_fit
+_targets/objects/posterior_summary
+_targets/objects/raw_data
+_targets/objects/stan_data
+firemodel_predict
+index.md
+index_files/figure-gfm/p1-1.png
+index_files/figure-gfm/plot-1.png
