@@ -1,6 +1,5 @@
 name|type|parent|branches|progress
-raw_data_file|stem|raw_data_file|0|started
-raw_data_file|stem|raw_data_file|0|built
+raw_data_file|stem|raw_data_file|0|skipped
 model|stem|model|0|started
 model|stem|model|0|built
 raw_data|stem|raw_data|0|started

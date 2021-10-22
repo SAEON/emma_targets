@@ -41,7 +41,7 @@ How long did that take?
 model_fit$time()$total
 ```
 
-    ## [1] 32.78284
+    ## [1] 33.65373
 
 ``` r
 params=c("tau","alpha_mu","gamma_b2","gamma_b1","lambda_b1","lambda_b2")
@@ -78,6 +78,9 @@ posterior_summary %>%
 ![](index_files/figure-gfm/plot-1.png)<!-- -->
 
 # Spatial Predictions
+
+This section is not yet working - need to get the coordinates in the
+original data set.
 
 ``` r
 stan_spatial <- stan_vb %>% 
